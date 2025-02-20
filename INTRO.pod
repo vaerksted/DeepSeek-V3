@@ -3,7 +3,7 @@
 =begin html
 
 <div align=right>
-English / 中文 / Türkçe
+<a href="https://github.com/deepseek-ai/DeepSeek-V3/blob/main/INTRO.pod#1-簡介">中文</a> / Türkçe
 </div>
 
 =end html
@@ -214,14 +214,20 @@ directions for future research (Section 6).
 
 =head2 1. 簡介
 
+=begin html
+
+<div align=right>
+supported translation
+</div>
+
+=end html
+
 =head2 1. Giriş
 
 =begin html
 
 <div align=right>
-This translation is not supported by the developers.
+unsupported translation
 </div>
 
 =end html
-
-
