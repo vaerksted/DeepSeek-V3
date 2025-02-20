@@ -3,7 +3,8 @@
 =begin html
 
 <div align=right>
-<a href="https://github.com/deepseek-ai/DeepSeek-V3/blob/main/INTRO.pod#1-簡介">中文</a> / Türkçe
+<a href="https://github.com/deepseek-ai/DeepSeek-V3/blob/main/INTRO.pod#1-簡介">中文</a>
+/ <a href="https://github.com/deepseek-ai/DeepSeek-V3/blob/main/INTRO.pod#1-giriş">Türkçe</a>
 </div>
 
 =end html
